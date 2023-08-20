@@ -65,11 +65,13 @@ class Assets {
   static const String imagesHome = 'assets/images/home.png';
   static const String imagesLines = 'assets/images/lines.png';
   static const String imagesLogo = 'assets/images/logo.png';
+  static const String imagesLogo1 = 'assets/images/logo1.png';
   static const String imagesOther1 = 'assets/images/other1.png';
   static const String imagesOther2 = 'assets/images/other2.png';
   static const String imagesOther3 = 'assets/images/other3.png';
   static const String imagesOther4 = 'assets/images/other4.png';
   static const String imagesScanner = 'assets/images/scanner.png';
+  static const String imagesSplash = 'assets/images/splash.png';
   static const String imagesSwahili = 'assets/images/swahili.png';
 
 }

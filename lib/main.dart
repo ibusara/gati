@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:gati_app/views/screens/screen_login.dart';
 import 'package:gati_app/views/screens/screen_welcome.dart';
 import 'package:gati_app/views/widgets/custom_error.dart';
 import 'package:get/get.dart';
